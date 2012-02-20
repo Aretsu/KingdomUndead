@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="hexagonal" width="8" height="8" tilewidth="117" tileheight="100">
+ <tileset name="Base" firstgid="1" tilewidth="117" tileheight="100">
+  <image source="worldmap_hex_tiles.png"/>
+ </tileset>
+ <layer name="Livello 0" width="8" height="8">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAABNhYGAQoRMWpqNdxGIAn26HlwABAAA=
+  </data>
+ </layer>
+</map>
